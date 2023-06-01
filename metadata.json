@@ -1,0 +1,20 @@
+{
+    "Type": "solar",
+    "Meta": [
+        {
+            "CrossFade": false,
+            "Time": "06:00",
+            "FileName": "1.jpg"
+        },
+        {
+            "CrossFade": false,
+            "Time": "16:00",
+            "FileName": "2.jpg"
+        },
+        {
+            "CrossFade": false,
+            "Time": "21:00",
+            "FileName": "3.jpg"
+        }
+    ]
+}
