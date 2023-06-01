@@ -1,4 +1,4 @@
-# TokyoStreet-Dynamic-Wallpaper
+# TokyoStreet Dynamic Wallpaper (for KDE)
 
 ![preview](preview.jpg)
 
